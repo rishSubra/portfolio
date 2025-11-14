@@ -7,13 +7,13 @@ tags:
 
 # About Me
 
-I'm Rishab Subramaniyan, a Computer Science and Mathematics student at the University of Georgia and member of the Moorehead Honors College (Class of 2028). My academic journey centers on the intersection of mathematics, computer science, and computational linguistics.
+I'm Rishab Subramaniyan, a Computer Science and Mathematics student at the University of Georgia and member of the Morehead Honors College (Class of 2028). My academic journey centers on the intersection of mathematics, computer science, and computational linguistics.
 
 ## Academic Background
 
 **University of Georgia** (Aug 2025 - May 2028)
 - B.S. in Computer Science & Mathematics
-- UGA Moorehead Honors College Student
+- UGA Morehead Honors College Student
 - 1550 SAT
 
 ### Relevant Coursework

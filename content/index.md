@@ -4,7 +4,7 @@ title: Home
 
 # Rishab Subramaniyan
 
-**Computer Science & Mathematics Student | UGA Moorehead Honors College**
+**Computer Science & Mathematics Student | UGA Morehead Honors College**
 
 > "I enjoy work that involves building and proving concepts, from writing elegant code to deriving mathematical relationships."
 
@@ -15,7 +15,7 @@ I'm a student at the University of Georgia studying Computer Science and Mathema
 Currently, I'm involved in:
 - **MathCounts Outreach** - Tutoring 3rd grade students in math enrichment
 - **DevDogs** - UGA's student-run software development organization
-- **Moorehead Honors College** - Pursuing interdisciplinary learning and research opportunities
+- **Morehead Honors College** - Pursuing interdisciplinary learning and research opportunities
 
 ## Quick Links
 
